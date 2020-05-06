@@ -13,3 +13,5 @@ Maya/BatchRetargetingTool.py
 1. 两个蒙皮文件都必须设置好HumanIK，并调整成TPose。而且必须为Ma或者Mb文件。
 2. 动画文件必须为fbx。
 3. 以上所有文件以及目录中都不许出现中文。
+
+增加HIK的Ue4模板，只需要指定Root骨骼后，再点击Load Skeleton definition-Browse，加载HIK_Ue4.xml即可。
